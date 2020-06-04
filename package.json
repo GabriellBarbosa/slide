@@ -1,0 +1,23 @@
+{
+  "name": "projeto-slide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabriellBarbosa/slide.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabriellBarbosa/slide/issues"
+  },
+  "homepage": "https://github.com/GabriellBarbosa/slide#readme"
+}
