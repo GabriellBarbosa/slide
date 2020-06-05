@@ -43,3 +43,23 @@ img {
   opacity: 1;
   transform: scale(1);
 }
+
+.arrow-nav {
+  text-align: center;
+  margin-top: 2em;
+}
+
+.next,
+.prev {
+  background: #ffbb55;
+  margin: 0px, 40px;
+  padding: 14px;
+  border-radius: 50%;
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.next:hover,
+.prev:hover {
+  color: #fff;
+}
